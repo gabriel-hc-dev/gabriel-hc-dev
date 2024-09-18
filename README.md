@@ -1,4 +1,4 @@
-## Olá! 😁👍
+## Olá! 👍
 
 <!--https://img.shields.io/github/followers/gabriel-hc-dev.svg?style=social&label=Follow&maxAge=2592000-->
 
