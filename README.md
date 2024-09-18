@@ -14,8 +14,8 @@ Linguagens:
 </div>
 
 ##
-<div style="display:flex; justify-content: center;">
+
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-hc-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Status do Github](https://github-readme-stats.vercel.app/api?username=gabriel-hc-dev&show_icons=true)
-</div>
+
 ##
