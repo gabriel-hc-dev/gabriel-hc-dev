@@ -1,4 +1,5 @@
-## Olá!
+<section style="user-select: none;">
+  ## Olá!
 
 <!--https://img.shields.io/github/followers/gabriel-hc-dev.svg?style=social&label=Follow&maxAge=2592000-->
 
@@ -19,3 +20,4 @@
 ![Status do Github](https://github-readme-stats.vercel.app/api?username=gabriel-hc-dev&show_icons=true)
 
 ##
+</section>
